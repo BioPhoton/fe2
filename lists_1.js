@@ -11,14 +11,3 @@ const data = [
 const getId5 = () => {
   //
 }
-
-// 2. Find the item with id:5
-//    Create a function to convert the array to an id map
-//    Find the element in the mapped object
-const toIdMap = (array) => {
-  //
-}
-
-const getId5 = () => {
-  //
-}
