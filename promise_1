@@ -12,7 +12,7 @@ const HttpClient = {
 //   The goal is to do the calls one after another. 
 //   So only the previouse call returns a value the next one can be done
 
-const sequentRequests = async () => {
+const sequentRequests = () => {
     //insert code here
 };
 
